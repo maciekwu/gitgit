@@ -1,0 +1,4 @@
+imie	nazwisko	stanowisko
+Marian	Krol	dev
+Maciej	Krakowski	dev
+Gosia	Wojcik	superdev
